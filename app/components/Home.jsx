@@ -73,7 +73,7 @@ Creating digital solutions that transform and improve user experiences.         
 
             <div className="mt-8">
               <Link
-  href="https://drive.google.com/file/d/1LbtFSP1XWO09n3ybOVXvkJufJJbutTyN/view?usp=sharing"
+  href="https://drive.google.com/file/d/1YL4vEqD_lval17gRaiHq5ogA_rnTzJcl/view?usp=drive_link"
   target="_blank"
   className="inline-flex items-center gap-2 rounded-full px-6 py-3 font-medium bg-[#cb450c] text-white transition hover:bg-white hover:text-black"
 >
